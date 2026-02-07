@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "uid": "fengwei_demo",
+      "profile": {
+        "displayName": "FENGWEI",
+        "photoURL": "",
+        "email": "fengwei@example.com",
+        "lastLogin": "2026-02-07T12:00:00Z"
+      },
+      "countdowns": [
+        {
+          "id": "global_2063",
+          "title": "全球生日倒计时",
+          "targetDateISO": "2063-11-18T12:00:00+08:00",
+          "timezone": "Asia/Shanghai",
+          "format": "YYYY-MM-DD HH:mm:ss",
+          "createdAt": "2026-02-07T12:00:00Z",
+          "updatedAt": "2026-02-07T12:00:00Z",
+          "settings": { "showSeconds": true }
+        },
+        {
+          "id": "father_bday_2040",
+          "title": "父亲生日演示",
+          "targetDateISO": "2040-04-01T00:00:00+08:00",
+          "timezone": "Asia/Shanghai",
+          "format": "YYYY-MM-DD HH:mm:ss",
+          "createdAt": "2026-02-07T12:00:00Z",
+          "updatedAt": "2026-02-07T12:00:00Z",
+          "settings": { "showSeconds": false }
+        }
+      ]
+    }
+  ],
+  "stats": [
+    { "uid": "fengwei_demo", "event": "demo_seed", "timestamp": "2026-02-07T12:00:00Z", "details": "seeded demo dataset" }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "users": {
+    "fengwei_demo": {
+      "uid": "fengwei_demo",
+      "email": "fengwei@example.com",
+      "passwordHash": "$2b$10$PIm2yxnLAKNzk2pcCIGe7.YDFDUAEMUFDbMX2Zst1G3n61KG9Cz1y",
+      "displayName": "FENGWEI",
+      "photoURL": "",
+      "lastLogin": "2026-02-07T01:36:17.316Z",
+      "countdowns": {
+        "global_2063": {
+          "id": "global_2063",
+          "title": "全球生日倒计时",
+          "targetDateISO": "2063-11-18T12:00:00+08:00",
+          "timezone": "Asia/Shanghai",
+          "format": "YYYY-MM-DD HH:mm:ss",
+          "createdAt": "2026-02-07T01:23:58.776Z",
+          "updatedAt": "2026-02-07T01:23:58.776Z",
+          "settings": {
+            "showSeconds": true
+          }
+        }
+      }
+    }
+  },
+  "stats": [
+    {
+      "uid": "fengwei_demo",
+      "event": "seed",
+      "timestamp": "2026-02-07T01:23:58.776Z",
+      "details": "demo seed"
+    }
+  ]
+}
